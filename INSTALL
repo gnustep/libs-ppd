@@ -4,7 +4,7 @@ INSTALL
 To install these printer PPD files:
 
 1. Make sure you have already installed the GNUstep core libraries, in 
-   particular, the gnustep-gui package.
+   particular, the gnustep-make package.
 
 2. As root or with sudo, type
 
