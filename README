@@ -1,0 +1,15 @@
+README
+******
+
+GNUstep Printer PPD Package
+===========================
+
+This package contains PPD files for various printers for use with GNUstep.
+These files were originally included with the gnustep-gui package but have
+now been split into a separate package, due to their large size and the
+fact that they are rarely used anyway. Future versions of GNUstep will
+probably use the CUPS interface, when available, and these PPD files are not
+necessary with CUPS.
+
+See the INSTALL file for installation instructions.
+See the NEWS file for changes
